@@ -1,7 +1,7 @@
 # Excel-Final-Project
 
 ## INTRODUCTION
-This analysis involves a company's sales performance in the previous year, with data referencing specific areas like: segments, quarter, months, products,countries and more. The analysis is meant to delve into where more attention should be paid to. Pointers will be developed on how the company will perform better and make informed decisions in the coming year?. The analysis is meant to provide KPI's on the company's data and answer certain questions that will enable a more productive outing next year.
+This analysis involves a company's sales performance in the previous year, with data referencing specific areas like: segments, quarter, months, products,countries and more. The analysis is meant to delve into where more attention should be paid to. Pointers will be developed on how the company will perform better and make informed decisions in the coming year. The analysis is meant to provide KPI's on the company's data and answer certain questions that will enable a more productive outing next year.
 ## 6 KEY QUESTIONS THAT NEED ANSWERS
 - What are the top 15 shipments by state			
 - Which Product category has the highest sales			
@@ -16,7 +16,7 @@ The Key Performing Index that we will be looking at are;
 - Total sales	 
 - Average profit	 
 - average sales	 
-- sales that make up total profit	12%
+- sales that make up total profit
 
 We calculate the total profit and total sales by applying the **SUM** function on the respective column. Total profit gave **$286,324.07** and total sales gave **$2,296,957.70**.
 
