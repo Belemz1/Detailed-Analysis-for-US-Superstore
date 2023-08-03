@@ -9,6 +9,7 @@ This analysis involves a company's sales performance in the previous year, with 
 - Top ten states with highest profit			
 - Product with the highest purchase			
 - Most prefered shipping option by customers
+- A suitable slicer
 ## KPI
 The Key Performing Index that we will be looking at are;
 - Total profit	
@@ -38,7 +39,7 @@ From the table and chart, it is shown that **California** has the highest shipme
 
 **PRODUCT CATEGORY WITH THE HIGHEST SALES**
 
-The pivot table below shows the product category with the highest sale
+The pivot table below shows the technology category, with consumer products raking the highest sale
 
 ![](8.png) ![](8.1.png)
 
@@ -69,19 +70,26 @@ I went further to analyse the data based on project that was purchased most, whi
 
 **MOST PREFERED SHIPPING OPTION BY CUSTOMERS**
 
-The data showed that customers used various shipping option to receive their items. The analysis from the pivot table and chart below shows which shipping option was used mostly.
+The data showed that customers used various shipping option to receive their items. The analysis from the pivot table and chart below shows that standard class was the most preferred shipping option.
 
 ![](12.png)
 ![](12.1.png)
 
+**SLICER**
 
-entering a new business year, based on theProject Requirements
+The slicer selected to filter the data will be the **STATE** slicer. This slicer will help screen the data states by state. See below
 
-You are to analyze the U.S Superstore Sales Data extensively
-Come up with 6 business questions you intend to answer with that data
-Clean, analyze and visualize your insights 
-Include the following:
-Your KPIs (maximum: 4)
-Suitable header and subtitles for each visualization
-A suitable slicer
+![](slicer.png)
+
+## CONCLUSION AND RECOMMENDATION
+
+The analysis shows that most sales,profit and also shipment was recorded in California. The data also showed areas were massive loss in profit for some items were recorded. Technology and consumer products generated so much sales. Most customers prefered their items shipped with the standard class shipment option. The item 'Binders' from office supplies had the greatest percentage of items purchased. As a result of this data, it can be deduced that the state **California** contributed about **19.92%** of total sales, and **North Dakota** having the lowest of 0.04%. The following recommendations are advised
+
+- More campaings and adverts be carried out in states with very poor sales
+- Poducts in corporate and home office category be given a sales boost
+- Product and sales that recorded huge loss should be investigated and made sure such losses dont re-occur
+- Ads,campaign including suggestions and discount should be given to customers to be open to **SAME DAY** shipping option, which recorded very low on customers preferrence 
+
+
+
 
