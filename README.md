@@ -1,4 +1,4 @@
-# Excel-Final-Project
+# DETAILED ANALYSIS FOR US SUPER STORE
 
 ## INTRODUCTION
 This analysis involves a company's sales performance in the previous year, with data referencing specific areas like: segments, quarter, months, products,countries and more. The analysis is meant to delve into where more attention should be paid to. Pointers will be developed on how the company will perform better and make informed decisions in the coming year. The analysis is meant to provide KPI's on the company's data and answer certain questions that will enable a more productive outing next year.
