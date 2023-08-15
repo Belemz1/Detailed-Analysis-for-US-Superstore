@@ -73,6 +73,7 @@ I went further to analyse the data based on project that was purchased most, whi
 The data showed that customers used various shipping option to receive their items. The analysis from the pivot table and chart below shows that standard class was the most preferred shipping option.
 
 ![](12.png)
+
 ![](12.1.png)
 
 **SLICER**
