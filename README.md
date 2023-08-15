@@ -33,7 +33,7 @@ The solutions are provided using a pivot table and illustrated graphically on a 
 The pivot table and chart illustrates the top 15 shipments by state
 
 ![](7.png) 
-![](7.1.png)
+![](14.png)
 
 From the table and chart, it is shown that **California** has the highest shipment.
 
