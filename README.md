@@ -66,7 +66,7 @@ The state California grossed the highest, with a profit of **$76,381.39**.
 
 I went further to analyse the data based on project that was purchased most, which was shown as percentage. The result is seen below in the pivot table and chart
 
-![](11.png) ![](11.1.png)
+![](11.png) ![](13.png)
 
 **MOST PREFERED SHIPPING OPTION BY CUSTOMERS**
 
